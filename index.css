@@ -1,3 +1,4 @@
+/*
 h1 {
   text-align: center;
   margin-top: 60rem;
@@ -11,4 +12,17 @@ h3 {
   text-align: center;
   margin-top: 30rem;
   margin-bottom: 10rem;
+}
+*/
+body {
+  background-color: hotpink;
+  text-align: center;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+p {
+  font-size: x-large;
 }
